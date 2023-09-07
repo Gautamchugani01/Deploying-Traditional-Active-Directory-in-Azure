@@ -3,6 +3,7 @@ This project demonstrates how to deploy traditional Active Directory in Azure an
 
 
 #Technologies Used
+
 1.Windows server 2019
 2.Azure
 3.Active Directory
